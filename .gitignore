@@ -1,5 +1,0 @@
-# 排除 Visual Studio 暫存檔
-.vs/
-[Bb]in/
-[Oo]bj/
-*.user
